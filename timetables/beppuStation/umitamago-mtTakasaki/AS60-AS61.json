@@ -1,0 +1,35 @@
+{
+  "busID": "AS60-AS61",
+  "rideFrom_ja": "別府駅東口",
+  "rideFrom_en": "Beppu Station East Gate",
+  "rideFrom_img": "beppuStationEastGate.jpg",
+  "destination_ja": "高崎山・うみたまご",
+  "destination_en": "Mt.Takasaki & Umitamago",
+  "necessaryTime": "10",
+  "weekday": [
+      "07:34",
+      "08:00",
+      "08:54",
+      "10:15",
+      "12:20",
+      "13:15",
+      "14:15",
+      "14:39"
+    ],
+  "holiday": [
+      "07:54",
+      "08:54",
+      "09:15",
+      "09:54",
+      "10:15",
+      "10:54",
+      "11:15",
+      "11:54",
+      "12:15",
+      "12:35",
+      "13:15",
+      "14:15",
+      "15:15",
+      "16:15"
+  ]
+}

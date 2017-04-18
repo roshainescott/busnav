@@ -1,5 +1,11 @@
 {
   "busID": "41",
+  "rideFrom_ja": "別府駅西口",
+  "rideFrom_en": "Beppu Station West Gate",
+  "rideFrom_img": "beppuStationWestGate.jpg",
+  "destination_ja": "鉄輪",
+  "destination_en": "Kannawa",
+  "necessaryTime": "16",
   "weekday": [
     "08:47",
     "09:55",

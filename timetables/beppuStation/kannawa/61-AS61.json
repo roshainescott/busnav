@@ -1,0 +1,34 @@
+{
+  "busID": "61/AS61",
+  "rideFrom_ja": "別府駅東口",
+  "rideFrom_en": "Beppu Station East Gate",
+  "rideFrom_img": "beppuStationEastGate.jpg",
+  "destination_ja": "鉄輪温泉",
+  "destination_en": "Kannawa Onsen",
+  "necessaryTime": "25",
+  "weekday": [
+    "08:50",
+    "09:50",
+    "10:50",
+    "11:50",
+    "12:50",
+    "13:50",
+    "14:50",
+    "15:50",
+    "16:50",
+    "17:50",
+    "18:50",
+    "19:50"
+  ],
+  "holiday": [
+    "09:50",
+    "10:50",
+    "11:50",
+    "12:50",
+    "13:50",
+    "14:50",
+    "15:50",
+    "16:50",
+    "17:50"
+  ]
+}
